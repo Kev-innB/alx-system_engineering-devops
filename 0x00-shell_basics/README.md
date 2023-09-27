@@ -1,1 +1,1 @@
-th is is the readme for shell basics
+Readme file
